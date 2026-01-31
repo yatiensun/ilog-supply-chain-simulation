@@ -15,9 +15,8 @@ The objective is to balance **service level, inventory, and cash flow** while im
 - Compared outcomes and summarized insights in charts
 
 ## Tools
-- Excel (model tracking, charts)
+- Excel
 
 ## Deliverables
 - 📄 [Report] (https://github.com/yatiensun/ilog-supply-chain-simulation/blob/main/ISLI_MSc_2025_U2_Zibal_Final%20Report.pdf)
-- 📊 Excel model: `deliverables/`
-- 🖼️ Charts & screenshots: `images/`
+
